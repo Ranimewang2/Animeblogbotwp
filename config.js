@@ -5,16 +5,16 @@
 const config = {
 
   // ── 1. WordPress (your InfinityFree site) ────────────
-  wpUrl:         'https://YOURSITE.com',      // ← change this
-  wpUsername:    'YOUR_WP_USERNAME',           // ← change this
-  wpAppPassword: 'xxxx xxxx xxxx xxxx',        // ← WP Application Password
+  wpUrl:         'https://isekaiblogging.gt.tc',      // ← change this
+  wpUsername:    'rahatxashito',           // ← change this
+  wpAppPassword: 'ashito6969',        // ← WP Application Password
 
   // ── 2. OpenRouter (openrouter.ai → Keys) ─────────────
-  openrouterKey: 'sk-or-xxxxxxxxxxxxxxxxxxxx', // ← change this
+  openrouterKey: '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', // ← change this
 
   // ── 3. Blog info ──────────────────────────────────────
-  blogName:      'AnimeReza',
-  siteUrl:       'https://YOURSITE.com',       // same as wpUrl
+  blogName:      'isekai blogging',
+  siteUrl:       'https://animereza.xyz',       // same as wpUrl
 
   // ── 4. WordPress category IDs ─────────────────────────
   // Find them: WP Admin → Posts → Categories → hover the category → check URL for tag_ID

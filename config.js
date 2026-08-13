@@ -23,7 +23,7 @@ const config = {
   categoryNews:   3,
 
   // ── 5. Generation settings ────────────────────────────
-  articlesPerRun: 2,      // articles per cron trigger
+  articlesPerRun: 1,      // articles per cron trigger
   scheduleGapHrs: 4,      // hours between scheduled posts
 
 };

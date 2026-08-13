@@ -1,0 +1,16 @@
+{
+  "name": "animereza-wp-bot",
+  "version": "1.0.0",
+  "description": "Automated anime WordPress blog writer",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev":   "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": "20.x"
+  }
+}

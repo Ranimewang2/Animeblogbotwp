@@ -5,7 +5,7 @@
 const config = {
 
   // ── 1. WordPress ─────────────────────────────────────
-  wpUrl:         'https://isekaiblogging.gt.tv',
+  wpUrl:         'https://isekaiblogging.gt.tc',
   wpUsername:    'rahat696969',
   wpAppPassword: 'Pc1P HLN3 jfIy FnWk ptZb 2d0Q',
 
